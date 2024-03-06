@@ -1,0 +1,33 @@
+{
+  "name": "ksyshastarter_bot_tg_inst",
+  "version": "1.0.0",
+  "description": "my personal parser bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KsySha01/ksyshastarter_bot_tg_inst.git"
+  },
+  "dependencies": {
+    "helpershark": "1.0.1",
+    "instagram_asker_v1": "1.0.0",
+    "askingbot3": "1.0.1",
+    "askingbot3_v1": "1.0.0",
+    "sstgbot1": "1.0.1",
+    "sstgbot1_v2": "1.0.0",
+    "bboottedd9": "1.0.1",
+    "bboottedd2024": "1.0.0",
+    "ruslanastartjs": "1.0.1",
+    "ruslanastartjs_new_bot": "1.0.0",
+    "ksyshastarter": "1.0.1"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KsySha01/ksyshastarter_bot_tg_inst/issues"
+  },
+  "homepage": "https://github.com/KsySha01/ksyshastarter_bot_tg_inst"
+}
